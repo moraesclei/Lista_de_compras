@@ -95,3 +95,10 @@ for(let positionList = 0; positionList < shoppingList.length; positionList +=1){
     }
 }
 console.log(carrinho);
+
+// git init
+// git add + nomedoprojeto
+// git commit -m ''
+// git remote add origin + linkdorepositorio
+// git push -u origin master
+// git status
